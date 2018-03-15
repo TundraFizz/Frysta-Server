@@ -1,0 +1,26 @@
+{
+  "name": "frysta",
+  "version": "0.1.0",
+  "author": "Tundra Fizz",
+  "description": "The server for my Frysta application",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt": "latest",
+    "body-parser": "latest",
+    "ejs": "latest",
+    "express": "latest",
+    "multer": "latest",
+    "mysql": "latest",
+    "node-sass-middleware": "latest",
+    "nodemailer": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TundraFizz/Frysta-Server"
+  },
+  "license": "ISC"
+}

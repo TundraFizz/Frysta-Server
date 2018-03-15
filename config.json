@@ -1,0 +1,6 @@
+{
+  "host":     "ENTER_HOSTNAME",
+  "user":     "ENTER_USER",
+  "password": "ENTER_PASSWORD",
+  "database": "ENTER_DATABASE"
+}
