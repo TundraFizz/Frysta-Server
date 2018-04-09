@@ -144,7 +144,7 @@ app.post("/create-account", function(req, res){
                 service: "gmail",
                 auth: {
                   user: "fizz.gg.site@gmail.com",
-                  pass: "5%45$#hCYfZe*GTe65sa"
+                  pass: "PASSWORD_GOES_HERE"
                 }
               });
 
